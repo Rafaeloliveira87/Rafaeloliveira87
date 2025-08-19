@@ -11,5 +11,5 @@ Desenvolvimento de raciocínio analítico para resolução de problemas e atendi
 - Python | Java | MySQL |HTML/CSS | Power BI | Git | Excel  
 -------------------------
 ### 📈 Estatísticas do GitHub
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaeloliveira87show_icons=true&theme=dracula)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaeloliveira87&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeloliveira87&layout=compact&theme=dracula)
