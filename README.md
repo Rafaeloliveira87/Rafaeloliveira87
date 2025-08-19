@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Olá, eu sou Rafael!
+Atualmente Trabalho na Solares Ti, Atuando na área de informática, com experiência em diagnóstico de problemas de hardware e software, atualização de sistemas e suporte a usuários. 
+Apoio na instalação e configuração de redes e softwares de automação. 
+Desenvolvimento de raciocínio analítico para resolução de problemas e atendimento ao cliente.
+-------------------------
+💻 Estudante de Ciência da Computação (UNIP)  
+🚀 Interesse em Desenvolvimento Back-End e Análise de Dados  
+📊 Apaixonado por programação, bancos de dados e automação de processos  
 
-<!--
-**Rafaeloliveira87/Rafaeloliveira87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologias & Ferramentas
+- Python | Java | MySQL |HTML/CSS | Power BI | Git | Excel  
+-------------------------
+### 📈 Estatísticas do GitHub
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaeloliveira87show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeloliveira87&layout=compact&theme=dracula)
