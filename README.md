@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou Rafael!
-      Estagiario na Solares Ti 💻
+
       Campinas, SP 📍
       
 
