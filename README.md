@@ -22,9 +22,21 @@
 
 ###
 
-<p align="left">Me chamo Rafael , sou de Campinas SP - Brasil.<br><br>- 🔭 Trabalho como estagiario em analise de dados na John Deere 💚<br><br>- 📚 Estou cursando Ciência da computação na Unip <br><br>- ⚡Gosto muito de tecnologia e basquete</p>
+<p align="left">Olá! Me chamo Rafael Alves, sou de Campinas - SP, Brasil 🇧🇷
+
+💼 Estagiário em Análise de Dados na John Deere 💚
+Atuando na área de inteligência de mercado, com foco em extração, limpeza e análise de dados, além do desenvolvimento e automação de bases usando Python, Excel e Databricks.
+
+🎓 Graduando em Ciência da Computação pela UNIP
+
+
+🏀 Apaixonado por tecnologia e basquete.</p>
 
 ###
+### 🚀 Habilidades
+🐍 Python (Pandas, NumPy, Matplotlib)  
+📊 Power BI | Excel | Databricks  
+🗄️ SQL | Automação de Dados  
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
